@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/WarriorsWCH/node-lesson#readme",
   "dependencies": {
+    "ejs": "^2.5.7",
     "formidable": "^1.1.1",
+    "jade": "^1.11.0",
     "silly-datetime": "^0.1.2"
   }
 }
