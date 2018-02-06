@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WarriorsWCH/node-lesson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WarriorsWCH/node-lesson/issues"
+  },
+  "homepage": "https://github.com/WarriorsWCH/node-lesson#readme",
+  "dependencies": {
+    "formidable": "^1.1.1",
+    "silly-datetime": "^0.1.2"
+  }
+}
